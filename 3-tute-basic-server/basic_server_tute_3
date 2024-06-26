@@ -1,0 +1,19 @@
+// to create a basic http server for demo 
+
+const http = require("http"); // handles http requests
+
+http.createServer((request, response)=>{    //createserver keyword is used to create a http server with parameters request and response
+    response.write("<h1>Hi, this is a test server</h1>");     // response is used to show response and write is used to write the response
+    response.end();  // after your wor is done, end the server 
+}).listen(4500);  // .listen(4500)  is used to listen the response from the server.4
+
+
+/*
+similarly to keep it SVGFEDisplacementMapElement, 
+
+function datacontrol(request, response){
+    response.write("<h1>Hi, this is a test server</h1>");
+    request.end();
+}
+
+http.createServer(datacontrol).listen(4500);   */

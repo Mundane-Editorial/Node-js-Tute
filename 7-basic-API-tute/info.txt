@@ -1,0 +1,1 @@
+here in file name 'index.js', a server is created first and then response. writehead  is used to specify the content type of the API key, here the port on which api is working is localhost:port:5500 i.e the postnumber
