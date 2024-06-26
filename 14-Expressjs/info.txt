@@ -1,0 +1,39 @@
+what is express js
+install express-js
+example with express-js
+
+
+
+
+Express.js is a popular web application framework for Node.js, a JavaScript runtime environment that allows developers to run JavaScript on the server-side. 
+Express.js provides a set of features and tools that simplify the process of building web applications and APIs using Node.js.
+
+Here are the key benefits and uses of Express.js:
+
+Minimalist and Lightweight: Express.js is a minimalist and lightweight framework, which means it doesn't include a lot of unnecessary features. 
+This makes it fast and efficient, allowing developers to focus on building the core functionality of their application.
+
+Easy to Learn and Use: Express.js has a simple and intuitive API, making it easy for both novice and experienced developers to learn and use. 
+It's built on top of Node.js, so developers can leverage the power of the Node.js ecosystem and easily integrate with other Node.js modules.
+
+Middleware Support: One of the key features of Express.js is its support for middleware. Middleware is a function that is executed for every HTTP
+ request received by the server. Middleware can be used to perform a variety of tasks, such as logging, authentication, and error handling. 
+ Express.js provides developers with a wide range of built-in middleware functions, as well as the ability to create custom middleware.
+
+Routing: Express.js provides developers with a powerful routing system that makes it easy to handle different HTTP requests for different URLs. 
+Developers can define routes that map to specific URLs and HTTP methods, making it easy to handle different types of requests.
+ Express.js also supports parameterized routes, which allows developers to handle dynamic URLs.
+
+Template Engines: Express.js supports a variety of template engines, which makes it easy to render dynamic HTML pages. 
+Developers can choose from a variety of popular template engines, such as EJS, Handlebars, and Pug. Express.js also provides 
+developers with built-in support for serving static files, such as images, CSS, and JavaScript.
+
+Database Support: Express.js provides developers with a variety of options for working with databases. It has built-in support for 
+popular databases, such as MongoDB and MySQL, as well as the ability to use other Node.js database modules. Developers can easily 
+connect to databases, perform CRUD operations, and handle database transactions.
+
+Scalability: Express.js is designed to be scalable and can handle a large number of concurrent connections. It uses an event-driven, 
+non-blocking I/O model, which allows it to handle multiple requests at the same time. Express.js also supports clustering, which allows 
+developers to scale their applications across multiple CPUs or servers.
+
+Overall, Express.js is a powerful and flexible web framework that simplifies the process of building web applications and APIs using Node.js. Its minimalist design, ease of use, and extensive ecosystem of middleware and tools make it a popular choice for developers building a wide range of web applications, from RESTful APIs to real-time applications and single-page applications.
