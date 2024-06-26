@@ -1,0 +1,9 @@
+http://localhost:5000/about.html
+
+in order to remove the ".html" extension, all these practises are done 
+
+basically implemented for security puroses
+
+ad basically to change the url name 
+
+// and will create a 404 error page
