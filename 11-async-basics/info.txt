@@ -1,0 +1,14 @@
+QUES :: what is synchronous vs asynchronous ?
+ANS :: * Synchronous programming is good for simple, step-by-step tasks.
+* Asynchronous programming is ideal for situations where the program 
+needs to be responsive and handle multiple operations efficiently, 
+especially when dealing with tasks that take a long time to complete.
+
+
+
+node, jscript is an asynchronous  language 
+
+
+
+// what is it draw backs ???
+if the variable is dependent, it will take time to get the variable value;
