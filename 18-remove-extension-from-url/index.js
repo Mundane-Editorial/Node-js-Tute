@@ -6,7 +6,7 @@ const publicfolder = path.join(__dirname, 'public');
 
 
 // app.use(express.static(publicfolder));
-app.get('',(request, response) => {     // using this, the extensionn is hidden 
+app.get('',(request, response) => {     // using this, the extensionn is hidden   "send file"
     response.sendFile(path.join(`${publicfolder}/index.html`));
 })        
 
