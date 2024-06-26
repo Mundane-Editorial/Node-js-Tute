@@ -1,0 +1,5 @@
+template engine  : it is an npm extension use fofr rendering dynamic pages
+install ejs template package    :: why ejs ??  widely used 
+setup dynamic routing
+make dynamic pages
+
