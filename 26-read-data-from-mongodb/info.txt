@@ -1,0 +1,6 @@
+>> read data from mongodb
+>> make file for db connection 
+>> handle promises  ?
+
+
+>> what are async and await functions 
