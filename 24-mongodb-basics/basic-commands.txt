@@ -1,0 +1,18 @@
+// to use data base
+use "database name"
+
+
+"CRUD"
+
+
+//insert into the selected table 
+db."table_name".insertOne({key:"value", key:"value", key:"value"})
+
+//how to print the inserted values 
+db."table_name".find()
+
+//how to update a key/value pair
+db.table_name.updateOne({key: "value"}, {$set:{key:"updated value"}})
+
+//how to delete a key/value pair
+db.table_name.deleteOne({key: "value_to_deleted"})

@@ -1,0 +1,12 @@
+<h1>
+        MONGO DB IS  A NO SQL DATABASE WHERE THE DATA STORED IS NOT A STRUCTURE
+</h1>
+
+
+
+
+
+download mongodb
+install mongodb
+set environment for mongo 
+mongodb compass tool  :: GUI tool for mongodb

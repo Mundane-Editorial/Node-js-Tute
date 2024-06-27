@@ -1,0 +1,17 @@
+what is mongo db :::
+sol : nosql database : data is stored in collection (no rows and columns): data is stored in the form of objects 
+eg:  {
+    id : ObjectId("lknsdw804thewfew984rr4r23439"),
+    "first_name" : "uday",
+    "last_name" : "rana",
+    "age" : "30",
+    "gender" : "male",
+    "email" : "uday@gmail.com",
+}   // basically the data is stored in key value pairs
+
+
+
+mongo db vs my sql 
+
+mongodb basic commands 
+
