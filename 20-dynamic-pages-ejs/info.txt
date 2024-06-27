@@ -1,0 +1,3 @@
+how to make loops in ejs 
+make header files 
+show common header files
