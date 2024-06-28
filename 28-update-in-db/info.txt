@@ -1,0 +1,5 @@
+<h1> Update DATA in MongoDB </h1>
+
+>> make new file for update DATA
+>> import mongodb connection 
+>> update single and multiple records 
