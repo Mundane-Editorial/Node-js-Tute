@@ -1,0 +1,6 @@
+<h1> Nodejs Delete api method </h1>
+
+>>make delete method for api 
+>> send data from postman 
+>> handle data in nodejs by request
+>> write code for delete data in mongodb 
