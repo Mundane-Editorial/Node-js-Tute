@@ -1,0 +1,9 @@
+<h1> API with MONGODB </h1>
+
+>> make new file for API
+>> import and use mongo config 
+>> make api for get data 
+>> test with postman 
+
+
+// you can't push body in get method 
