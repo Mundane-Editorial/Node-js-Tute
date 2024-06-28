@@ -1,0 +1,5 @@
+<h1> DELETE DATA FROM DATABASE  </h1>
+
+>> make new file for delete DATA
+>> import mongodb connection
+>> delete single and multiple records 
