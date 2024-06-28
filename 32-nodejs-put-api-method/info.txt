@@ -1,0 +1,6 @@
+<h1> Nodejs PUT API method </h1>      usage ???? whenever you have to update the data in database, put is used 
+
+>> make PUT method for api 
+>> send data from postman
+>> handle data in node js by request
+>> write code for update data in mongodb 
