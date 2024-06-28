@@ -1,0 +1,6 @@
+<h1> Node js POST api method </h1>
+
+>> make post method for api 
+>> send data from postman 
+>> get data in node js by request 
+>> write code to insert data in mondodb
