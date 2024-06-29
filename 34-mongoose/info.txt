@@ -1,0 +1,12 @@
+<h1> START WITH MONGOOSE </h1>
+npm i mongoose   :: it is  an updatd package of mongodb that supports schema and models and provides security and valiidation features too 
+
+>> start with mongoose 
+>> difference between mongodb and mongoose 
+>> install mongoose 
+>> what is schemas 
+>> what is model 
+>> connect nodejs and mongodb using mongoose 
+
+
+
