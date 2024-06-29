@@ -1,0 +1,3 @@
+OS MODULE IN NODEJS 
+
+>> it is used to intereact with your operating system (eg. RAM, kernek version) etc
