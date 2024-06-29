@@ -1,0 +1,9 @@
+API to upload file in nodejs 
+
+>> install multer api package
+>> make router for upload file 
+>> write code for upload file 
+>> interview question
+
+
+multer is an much efficient way to upload files athough it is possible to upload files usign nodejs(createreadstream function) too but the code length will be much higher that ways
