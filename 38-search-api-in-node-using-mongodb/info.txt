@@ -1,0 +1,4 @@
+>> make simple GET route for API
+>> search with single field 
+>> search with multiple field 
+>> test API
