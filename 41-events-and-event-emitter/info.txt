@@ -1,0 +1,8 @@
+EVETS AND EVENT EMITTER IN NODE JS 
+
+>> *imp  :: everything in nodejs is event based and is very important 
+
+
+// events are used in almost all languages 
+
+event : it create a signal or a task to execute a particular code block      
