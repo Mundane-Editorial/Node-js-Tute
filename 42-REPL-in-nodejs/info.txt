@@ -3,4 +3,4 @@ REPL :: READ EVALuate PRINT LOOP
 :: it is an cmdline tool to run nodejs and jscript code 
 :: how to use repl ??
 
-start >> cmd >> type node >> Goo
+start >> cmd >> type node >> Good to go 
