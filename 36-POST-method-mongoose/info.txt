@@ -1,0 +1,5 @@
+<h1> POST APPI METHOD </h1>
+
+>> make config file for mongodb
+>> make post route
+>> get data from postman and save db
